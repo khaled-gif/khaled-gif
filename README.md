@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @khaled-gif
-- 👀 I’m interested in programming/hacking
-- 🌱 I’m currently learning Computer Engineer
+- 👋 Hi, I’m Khaled
+- 👀 I’m interested in Cybersecurity 
+- 🌱 I’m a Computer Engineer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me khaled.aboultaif55@gmail.com
 
